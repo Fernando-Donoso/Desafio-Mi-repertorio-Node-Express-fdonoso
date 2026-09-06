@@ -1,0 +1,26 @@
+[
+  {
+    "id": "be77a337-917c-4094-b1dd-47a59dc12a08",
+    "titulo": "Mi canción nueva",
+    "artista": "Fernando Donoso",
+    "tono": "Do mayor"
+  },
+  {
+    "id": "2c4c9159-b666-4a88-aca4-001dfd2722fa",
+    "titulo": "Modificacion canción 2",
+    "artista": "Reemplazo artista de cancion 2",
+    "tono": "Reemplazo el tono de cancion 2"
+  },
+  {
+    "id": "b472c9ce-54cc-488f-9c46-bcd5e9bcdbc3",
+    "titulo": "Modificación Canción numero 4",
+    "artista": "Modificación Artista canción numero 4",
+    "tono": "Modificación Do Menor cancion 4"
+  },
+  {
+    "id": "94f39c3e-fe92-4a8b-8b06-10440985f7ea",
+    "titulo": "Canción numero 5",
+    "artista": "Artista cancion numero 5",
+    "tono": "Do Menor cancion 5"
+  }
+]
